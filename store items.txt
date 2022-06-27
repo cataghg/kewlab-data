@@ -1,1 +1,1 @@
-{"shop": {"1": "test1", "2": "test2", "3": "stormBundle", "4": "test1", "5": "test1", "6": "test1", "7": "normal crate"}, "total_items": 7, "avalabile date": "27/6/2022"}
+{"shop": {"1": "shingleBundle", "2": "natureBundle", "3": "stormBundle", "4": "test1", "5": "test1", "6": "test1", "7": "normal crate"}, "total_items": 7, "avalabile date": "27/6/2022"}
